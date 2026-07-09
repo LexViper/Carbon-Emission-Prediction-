@@ -79,12 +79,7 @@ This platform can be commercialized as:
 - **API Service**: Pay-per-prediction model
 - **Consulting**: Custom implementations for enterprises
 
-## 👥 Team
 
-- [Your Name] - Project Lead & ML Engineer
-- [Friend 1] - Data Analysis
-- [Friend 2] - Dashboard Development
-- [Friend 3] - Model Training
 
 ## 📄 License
 
