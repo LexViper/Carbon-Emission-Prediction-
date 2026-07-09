@@ -8,7 +8,7 @@ __pycache__/
 .Python
 
 # ============================================================
-# Virtual Environments (DO NOT UPLOAD)
+# Virtual Environments 
 # ============================================================
 env/
 venv/
@@ -38,7 +38,7 @@ myenv/
 *~
 
 # ============================================================
-# Node.js (DO NOT UPLOAD)
+# Node.js 
 # ============================================================
 node_modules/
 dashboard/frontend/node_modules/
